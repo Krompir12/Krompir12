@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="stat" align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krompir12&theme=dark" alt=""/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Krompir12&theme=dark" alt=""/>
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Krompir12&theme=dark" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krompir12&theme=github_dark" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Krompir12&theme=github_dark" alt=""/>
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Krompir12&theme=github_dark" alt=""/>
 </div>
