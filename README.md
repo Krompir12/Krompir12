@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="stat" align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krompir12&theme=github_dark" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=customizedpudding&theme=github_dark" alt=""/>
 </div>
